@@ -1,0 +1,33 @@
+_repo: The-Library_2018
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Andrew Lang (1844-1912) was a prolific Scots man of letters, a poet,
+  novelist, literary critic and contributor to anthropology. He now is best known
+  as the collector of folk and fairy tales. He was educated at the Edinburgh Academy,
+  St Andrews University and at Balliol College, Oxford. As a journalist, poet, critic
+  and historian, he soon made a reputation as one of the ablest and most versatile
+  writers of the day. Lang was one of the founders of the study of ""Psychical Research,
+  "" and his other writings on anthropology include The Book of Dreams and Ghosts
+  (1897), Magic and Religi.
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books'
+- !lcc 'Z'
+- !lcsh 'Book collecting'
+title: The Library
+url: http://www.gutenberg.org/ebooks/2018
