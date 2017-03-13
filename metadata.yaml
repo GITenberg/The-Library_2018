@@ -1,5 +1,8 @@
 _repo: The-Library_2018
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 2018-h/images/coverb.jpg
 creator:
   author:
     agent_name: Lang, Andrew
@@ -17,6 +20,8 @@ description: Andrew Lang (1844-1912) was a prolific Scots man of letters, a poet
   writers of the day. Lang was one of the founders of the study of ""Psychical Research,
   "" and his other writings on anthropology include The Book of Dreams and Ghosts
   (1897), Magic and Religi.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2018#The-Library
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '1999-12-01'
 gutenberg_type: Text
