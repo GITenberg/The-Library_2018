@@ -1,5 +1,5 @@
 _repo: The-Library_2018
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 2018-h/images/coverb.jpg
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'Books'
 - !lcc 'Z'
 - !lcsh 'Book collecting'
+- GITenberg
 title: The Library
 url: http://www.gutenberg.org/ebooks/2018
